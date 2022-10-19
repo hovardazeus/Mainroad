@@ -2,7 +2,7 @@
 title: 'Doğaltaş Kolye'
 date: '2022-10-09'
 draft: false
-summary: 'Doğal taşlar, takılarınıza biraz anlam ve sembolizm katmanın harika bir yoludur.'
+summary: 'Doğal taşlar takılarınıza biraz anlam ve sembolizm katmanın harika bir yoludur.'
 ---
 
 Doğal taşlar, takılarınıza biraz anlam ve sembolizm katmanın harika bir yoludur. Her durum için kullanılabilirler ve çeşitli renk, şekil ve boyutlarda gelirler.
@@ -22,6 +22,7 @@ Mücevheratta kullanılan en yaygın taşlar şunlardır:
 - Garnet (doğal)
 - Yeşim (doğal)
 - Lapis Lazuli (doğal)
+- 
 Doğal taşlar, dayanıklı olmaları ve çeşitli anlamlara sahip olmaları nedeniyle kolyeler için popüler bir seçimdir.
 Doğal taşlar kolye veya bileklik olarak kullanılabilir. Yüzük, küpe ve hatta saç aksesuarı olarak da kullanılabilirler. İnsanların takılarda kullandığı en yaygın doğal taş türleri şunlardır: turkuaz, ametist, yeşim ve opal.
 Taşın rengini ve şeklini belirleyen şey, taşın arkasındaki anlamdır. Örneğin: turkuaz, ağrı ve stresten kurtulma sağladığına inanıldığı için genellikle iyileştirici özelliklerle ilişkilendirilir; ametist, kötü ruhları kovduğu düşünüldüğü için maneviyatla ilişkilendirilir; yeşim bilgelikle ilişkilendirilir çünkü antik Çin'de iyi şans getirdiğine inanılırdı; Opal, mutlulukla ilişkilendirilir çünkü onları giyenlerin hayatlarına neşe getirdiğine inanılırdı.
