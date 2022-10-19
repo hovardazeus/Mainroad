@@ -1,6 +1,6 @@
 ---
 title: 'Doğaltaş Kolye'
-date: '2022-10-09'
+date: '2022-10-12'
 draft: false
 summary: 'Doğal taşlar takılarınıza biraz anlam ve sembolizm katmanın harika bir yoludur.'
 ---
