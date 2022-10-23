@@ -1,6 +1,6 @@
 ---
 title: 'Ametist Kolye'
-date: '2022-10-15'
+date: '2022-10-18'
 draft: false
 summary: 'Ametist kolye, mor kuvars çeşidinden yapılmış güzel bir mücevher parçasıdır. Yüzyıllardır sevgi ve koruma sembolü olarak kullanılmıştır.'
 ---
