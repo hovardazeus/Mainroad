@@ -1,8 +1,12 @@
 ---
-title: 'Doğaltaş Bileklik'
-date: '2022-10-09'
-draft: false
-summary: 'Doğal taşlar yüzyıllardır var. Onları giyen kişinin zenginliğini göstermenin bir yolu olarak kullanıldılar. Birçok doğal taş türü vardır ve hepsinin farklı özellikleri vardır.'
+title: Doğaltaş Bileklik
+date: 2022-10-23
+tags:
+  - "doğaltaş"
+  - "bileklik"
+categories:
+  - "Dogaltas"
+menu: main
 ---
 
 Doğal Taşlar:
