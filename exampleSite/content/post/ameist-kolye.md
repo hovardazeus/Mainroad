@@ -1,8 +1,12 @@
 ---
-title: 'Ametist Kolye'
-date: '2022-10-18'
-draft: false
-summary: 'Ametist kolye, mor kuvars çeşidinden yapılmış güzel bir mücevher parçasıdır. Yüzyıllardır sevgi ve koruma sembolü olarak kullanılmıştır.'
+title: Ameist Kolye
+date: 2022-10-28
+tags:
+  - "doğaltaş"
+  - "kolye"
+categories:
+  - "Dogaltas"
+menu: main
 ---
 
 [Ametist kolye](https://www.dogaltaslardukkani.com/dogal-tas-kolye/), mor kuvars çeşidinden yapılmış güzel bir mücevher parçasıdır. Yüzyıllardır sevgi ve koruma sembolü olarak kullanılmıştır.
