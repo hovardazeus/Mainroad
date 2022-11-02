@@ -1,6 +1,6 @@
 ---
 title: 'Doğaltaş Tespih'
-date: '2022-10-15'
+date: '2022-10-28'
 draft: false
 summary: ''
 ---
