@@ -1,8 +1,12 @@
 ---
-title: 'Doğaltaş Tespih'
-date: '2022-10-28'
-draft: false
-summary: ''
+title: Doğaltaş Tesbih
+date: 2022-10-28
+tags:
+  - "doğaltaş"
+  - "tesbih"
+categories:
+  - "Dogaltas"
+menu: main
 ---
 Doğal taş tespih, doğal taşlardan yapılmış bir tespihtir. Taşlar genellikle kehribar, su taşı veya diğer doğal taş türleridir. Boncuklar genellikle kehribar veya su taşından yapılır.
 
