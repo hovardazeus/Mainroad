@@ -1,6 +1,6 @@
 ---
 title: Doğaltaş Aşk Bilekliği
-date: 2022-10-23
+date: 2022-10-27
 tags:
   - "doğaltaş"
   - "bileklik"
