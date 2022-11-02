@@ -1,6 +1,6 @@
 ---
 title: 'Doğaltaş Masaj Aleti'
-date: '2022-10-15'
+date: '2022-10-24'
 draft: false
 summary: 'Doğal taşların masajda kullanılması yeni bir kavram değildir. Doğu'da yüzyıllardır kullanılmaktadır ve şimdi Batı'da popüler hale gelmektedir.'
 ---
