@@ -1,8 +1,12 @@
 ---
-title: 'Doğaltaş Aşk Bilekliği'
-date: '2022-10-27'
-draft: false
-summary: 'Doğal taştan yapılmış aşk bilekliği, sevgi ve şefkatin simgesidir. Hem erkekler hem de kadınlar tarafından giyilebilecek güzel bir aksesuardır. '
+title: Doğaltaş Aşk Bilekliği
+date: 2022-10-23
+tags:
+  - "doğaltaş"
+  - "bileklik"
+categories:
+  - "Dogaltas"
+menu: main
 ---
 
 Doğal taştan yapılmış aşk bilekliği, sevgi ve şefkatin simgesidir. Hem erkekler hem de kadınlar tarafından giyilebilecek güzel bir aksesuardır. Ruh eşiniz, eşiniz veya hayatınızdaki diğer sevdikleriniz için mükemmel bir hediye.
