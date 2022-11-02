@@ -1,8 +1,12 @@
 ---
-title: 'Ametist Bileklik'
-date: '2022-10-15'
-draft: false
-summary: 'Ametist taşı tarih boyunca kullanılmış güçlü ve koruyucu bir taştır. Negatif enerjilerden korunmak için takı olarak takılabilir veya cepte veya çantada taşınabilir.'
+title: Ameist Bileklik
+date: 2022-10-31
+tags:
+  - "doğaltaş"
+  - "bileklik"
+categories:
+  - "Dogaltas"
+menu: main
 ---
 
 Ametist taşı tarih boyunca kullanılmış güçlü ve koruyucu bir taştır. Negatif enerjilerden korunmak için takı olarak takılabilir veya cepte veya çantada taşınabilir.
