@@ -1,8 +1,12 @@
 ---
-title: 'Doğaltaş Kolye'
-date: '2022-10-12'
-draft: false
-summary: 'Doğal taşlar takılarınıza biraz anlam ve sembolizm katmanın harika bir yoludur.'
+title: Doğaltaş Kolye
+date: 2022-10-15
+tags:
+  - "doğaltaş"
+  - "kolye"
+categories:
+  - "Dogaltas"
+menu: main
 ---
 
 Doğal taşlar, takılarınıza biraz anlam ve sembolizm katmanın harika bir yoludur. Her durum için kullanılabilirler ve çeşitli renk, şekil ve boyutlarda gelirler.
