@@ -1,8 +1,12 @@
 ---
-title: 'Pembe Kuvars Kolye'
-date: '2022-10-31'
-draft: false
-summary: 'Pembe kuvars, duygusal iyileşmeye yardımcı olmak için yüzyıllardır kullanılan bir taştır. Ayrıca affetme ve cilt sorunlarına yardımcı olmak için kullanılır.'
+title: Pembe Kuvars Kolye
+date: 2022-10-29
+tags:
+  - "kolye"
+  - "kuvars"
+categories:
+  - "Dogaltas"
+menu: main
 ---
 
 Pembe kuvars, duygusal iyileşmeye yardımcı olmak için yüzyıllardır kullanılan bir taştır. Ayrıca affetme ve cilt sorunlarına yardımcı olmak için kullanılır.
