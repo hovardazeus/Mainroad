@@ -194,18 +194,6 @@ to being able to chain together function calls. One limitation of the
 pipes is that they only can work with a single value and that value
 becomes the last parameter of the next pipeline.
 
-A few simple examples should help convey how to use the pipe.
-
-**Example 1 :**
-
-    {{ if eq 1 1 }} Same {{ end }}
-
-is the same as
-
-    {{ eq 1 1 | if }} Same {{ end }}
-
-It does look odd to place the if at the end, but it does provide a good
-illustration of how to use the pipes.
 
 **Example 2 :**
 
