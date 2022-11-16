@@ -5,7 +5,6 @@ tags:
   - "doğaltaş"
 categories:
   - "Dogaltas"
-menu: main
 ---
 
 Doğal taş yüzükler, birine sevginizi ve bağlılığınızı göstermenin harika bir yoludur. Ayrıca bireyselliğinizi ifade etmenin harika bir yoludur.
