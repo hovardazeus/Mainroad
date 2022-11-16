@@ -6,7 +6,6 @@ tags:
   - "bileklik"
 categories:
   - "Dogaltas"
-menu: main
 ---
 
 Doğal taşlar takılar için popüler bir seçimdir. Çeşitli renk ve şekillerde mevcutturlar ve türünün tek örneği bir parça oluşturmak için kullanılabilirler.
