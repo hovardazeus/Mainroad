@@ -19,7 +19,8 @@ En yaygın doğal taş türleri şunlardır:
 - Elmaslar (doğal)
 - Zümrütler (doğal)
 - Garnet (doğal) - Jadeit - Lapis lazuli - Malakit - Aytaşı - Opal (doğal) - İnci (doğal) - Peridot - Kuvars kristali
-—
+
+
 Doğal taşlar, topraktan çıkarılan bir taş türüdür. Genellikle mücevherlerde ve diğer dekoratif eşyalarda kullanılırlar.
 En yaygın doğal taş türleri şunlardır:
 - Akik
